@@ -1,7 +1,5 @@
-obj
-release
-libs
-libs.gcc
-libs.clang
-libs.gcc.opencl
-build-*
+*.so
+*.o
+*.o.d
+*.o-*
+*.a
